@@ -51,3 +51,4 @@ This list combines videos from the following playlists:
 | 42 | Columnar Databases/Column Stores (2) | [Arabic](https://youtu.be/4IJ9hK4BuiI) | [English](https://youtu.be/Jfutfa7eBZk) |
 | 43 | Full Text Search (FTS) | [Arabic](https://youtu.be/UfWDzLus1yY) | [English](https://youtu.be/pMk0nQWOVz8) |
 | 44 | Introduction to Parquet | [Arabic](https://youtu.be/MLmrz_UfJ0Q) | [English](https://youtu.be/GWxzv70tC3M) |
+| 45 | Data Warehouse vs. Data Lake vs. Data Lakehouse | [Arabic](https://youtu.be/yAPiVzAz-z0) | [English](https://youtu.be/37ehJt7IOyE) |
